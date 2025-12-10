@@ -5,6 +5,16 @@
 **The spectral accelerator for Resonance Field Theory**  
 One complex scalar ψ with rigid vacuum. No dark matter. No extra dimensions.
 
+1024² nonlinear Gross–Pitaevskii evolution  
+2D quantum superfluid / Bose–Einstein condensate  
+single high-winding vortex ring + tiny noise seed  
+spectral (FFT) solver, zero numerical diffusion  
+no external forcing, no trapping potential, no GPU, no paid tier
+
+→ spontaneous halo collapse  
+→ self-generated concentric shockwaves  
+→ fully resolved quantum turbulence ripples that fade into the void
+
 ![image](https://github.com/user-attachments/assets/adfd67ec-50c1-4498-bfe0-4cf97a7d8d9c)
 ![image](https://github.com/user-attachments/assets/0a39bea7-893f-4367-a173-db504815e08d)
 ![image](https://github.com/user-attachments/assets/28ae51df-b03e-48bd-8695-c848d5436230)
