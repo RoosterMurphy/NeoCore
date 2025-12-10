@@ -1,3 +1,5 @@
+[![PyTorch](https://img.shields.io/badge/PyTorch-v2.0-orange)](https://pytorch.org/) [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org/)
+
 # NeoCore
 
 **The spectral accelerator for Resonance Field Theory**  
@@ -33,3 +35,6 @@ $$
 - Semi-implicit + 2/3 dealiasing by default  
 - Runs on anything: phone · Colab · GPU cluster  
 
+If you would like to contribute or buy me a coffee: 
+
+[![Buy Me a Coffee](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/rhouse84)
