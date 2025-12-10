@@ -19,9 +19,9 @@ One complex scalar ψ with rigid vacuum. No dark matter. No extra dimensions.
 ### The equation (final · December 2025)
 $$
 \boxed{
-\partial_t^2 \psi - c^2\nabla^2\psi 
-= \eta\,(|\psi|^2 - \psi_0^2)\psi 
-+ \lambda \int \frac{|\psi(r')|^2 - \psi_0^2}{|r-r'|^2 + \ell^2}\,d^3r'\;\psi
+\partial_t^2 \psi - c^2 \nabla^2 \psi 
+= \eta \left( |\psi|^2 - \psi_0^2 \right) \psi 
++ \lambda \int \frac{|\psi(\mathbf{r}')|^2 - \psi_0^2}{|\mathbf{r} - \mathbf{r}'|^2 + \ell^2} \, d^3\mathbf{r}' \cdot \psi
 }
 $$
 ψ₀ ≈ 1.2×10²⁰ m⁻¹  η ≈ 1.3×10¹⁰  one coupling rules everything.
