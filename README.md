@@ -1,6 +1,7 @@
 # NeoCore
 
-![halo collapse → proto-galaxy · 1024² · 90 s · free Colab CPU]
+**The spectral accelerator for Resonance Field Theory**  
+One complex scalar ψ with rigid vacuum. No dark matter. No extra dimensions.
 
 ![image](https://github.com/user-attachments/assets/adfd67ec-50c1-4498-bfe0-4cf97a7d8d9c)
 ![image](https://github.com/user-attachments/assets/0a39bea7-893f-4367-a173-db504815e08d)
@@ -8,9 +9,6 @@
 ![image](https://github.com/user-attachments/assets/7baff0f5-aea9-4e0f-8759-8cbc77923527)
 ![image](https://github.com/user-attachments/assets/b7616cdb-0106-4568-acb5-2a39b5302ad4)
 ![image](https://github.com/user-attachments/assets/79c490ab-94d5-48fc-a505-945817da92a9)
-
-**The spectral accelerator for Resonance Field Theory**  
-One complex scalar ψ with rigid vacuum. No dark matter. No extra dimensions.
 
 42 lines of pure, dimension-agnostic, phone-runnable truth that:
 - replaces cosmological & galactic dark matter with ∇ψ gradients  
