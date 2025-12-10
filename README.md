@@ -35,6 +35,9 @@ $$
 - Semi-implicit + 2/3 dealiasing by default  
 - Runs on anything: phone · Colab · GPU cluster  
 
+**From the same guy who gave you phone-runnable turbulence:**  
+→ [SpectralCore-Accelerator-128-256-320](https://github.com/RoosterMurphy/SpectralCore-Accelerator-128-256-320)
+
 If you would like to contribute or buy me a coffee: 
 
 [![Buy Me a Coffee](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/rhouse84)
