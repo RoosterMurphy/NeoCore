@@ -42,11 +42,10 @@ Kibble–Zurek cosmic string formation in a violent first-order phase transition
 - forecasts a new 10 TeV neutral scalar: the **Dewey**
 
 ### Resonance Field Theory – The Universal Equation
-$$
+
 i \frac{\partial \psi}{\partial t} = -\frac{1}{2} \nabla^2 \psi 
 + \eta |\psi|^2 \psi 
 + \lambda \psi(\mathbf{r},t) \int_{\mathbb{R}^3} \frac{|\psi(\mathbf{r}',t)|^2 - 1}{|\mathbf{r} - \mathbf{r}'|^2 + \ell^2} \, d^3\mathbf{r}'
-$$
 
 This single, parameter-minimal, fully nonlocal nonlinear Schrödinger equation — running on NeoCore’s spectral engine — reproduces, without modification:
 
