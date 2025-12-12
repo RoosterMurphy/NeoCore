@@ -6,7 +6,6 @@
 One complex scalar ψ with rigid vacuum. No dark matter. No extra dimensions.
 
 ![image](https://github.com/user-attachments/assets/02252d8f-646d-43a5-a7b9-0ce2a67df73e)
-
 1024² nonlinear Gross–Pitaevskii evolution  
 2D quantum superfluid / Bose–Einstein condensate  
 single high-winding vortex ring + tiny noise seed  
