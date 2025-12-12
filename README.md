@@ -6,7 +6,7 @@
 One complex scalar ψ with rigid vacuum. No dark matter. No extra dimensions.
 
 ![image](https://github.com/user-attachments/assets/02252d8f-646d-43a5-a7b9-0ce2a67df73e)
-1024² nonlinear Gross–Pitaevskii evolution  
+> 1024² nonlinear Gross–Pitaevskii evolution  
 2D quantum superfluid / Bose–Einstein condensate  
 single high-winding vortex ring + tiny noise seed  
 spectral (FFT) solver, zero numerical diffusion  
@@ -14,7 +14,7 @@ no external forcing, no trapping potential, no GPU, no paid tier
 → spontaneous halo collapse  
 → self-generated concentric shockwaves  → fully resolved quantum turbulence ripples that fade into the void
 ![image](https://github.com/user-attachments/assets/0d4bf1f8-0baa-4531-b228-8b2a29f760c4)
-First-ever real-space visualization of the predicted 10 TeV neutral scalar resonance (‘Dewey particle’) in Resonance Field Theory.  
+> First-ever real-space visualization of the predicted 10 TeV neutral scalar resonance (‘Dewey particle’) in Resonance Field Theory.  
 > 2048² spectral evolution of a single complex scalar kicked once in vacuum.  
 > What you’re seeing: on-shell creation → spherical wave emission quadrupolar radiation breathing standing waves.
 ![image](https://github.com/user-attachments/assets/1479eae4-63ad-4301-9654-13c04dd9f50f)
