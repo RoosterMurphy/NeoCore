@@ -35,7 +35,7 @@ One quantum seed with 42ℏ angular momentum → bubble wall → topological def
 ![image](https://github.com/user-attachments/assets/be0291ed-fb99-4a4f-babd-1721611f3d5b)
 Kibble–Zurek cosmic string formation in a violent first-order phase transition — 2048² spectral, infinite domain, no box artifacts.  One high-winding seed → expanding true-vacuum bubble → spontaneous vortex lattice → string network freezes out exactly as predicted in 1985.  NeoCore, free Colab CPU, <6 min runtime.
 ![image](https://github.com/user-attachments/assets/a91f3420-216d-41f6-8dad-e3775a9668bf)
-Fermion Problem Solved
+Fermion Problem Solved.
 From a single complex scalar field + one vortex seed in uniform vacuum:
 Self-organizes persistent topological defect (string core)  
 Traps chiral propagating zero-modes along the defect → fermions  
