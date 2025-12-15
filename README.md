@@ -37,9 +37,9 @@ Kibble–Zurek cosmic string formation in a violent first-order phase transition
 ![image](https://github.com/user-attachments/assets/a91f3420-216d-41f6-8dad-e3775a9668bf)
 Fermion Problem Solved
 From a single complex scalar field + one vortex seed in uniform vacuum:
-- Self-organizes persistent topological defect (string core)  
-- Traps chiral propagating zero-modes along the defect → fermions  
-- Crystallizes the entire vacuum into quasi-crystalline lattice → strong confinement
+Self-organizes persistent topological defect (string core)  
+Traps chiral propagating zero-modes along the defect → fermions  
+Crystallizes the entire vacuum into quasi-crystalline lattice → strong confinement
 No extra fields. No gauge postulates. No pre-imposed walls.
 Jackiw-Rebbi mechanism, but emergent and spontaneous — the field builds its own defects from pure resonance.
 This is the strong force (lattice tension) and fermions unified with gravity/EM in one equation.
