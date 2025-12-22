@@ -4,6 +4,7 @@
 
 **The spectral accelerator for Resonance Field Theory**  
 One complex scalar ψ with rigid vacuum. No dark matter. No extra dimensions.
+https://write.as/rooster-murphy/resonance-field-theory-v8-2-a-unified-framework-from-a-single-scalar-field
 
 ![image](https://github.com/user-attachments/assets/02252d8f-646d-43a5-a7b9-0ce2a67df73e)
 > 1024² nonlinear Gross–Pitaevskii evolution  
@@ -43,6 +44,12 @@ Crystallizes the entire vacuum into quasi-crystalline lattice → strong confine
 No extra fields. No gauge postulates. No pre-imposed walls.
 Jackiw-Rebbi mechanism, but emergent and spontaneous — the field builds its own defects from pure resonance.
 This is the strong force (lattice tension) and fermions unified with gravity/EM in one equation.
+![image](https://github.com/user-attachments/assets/bd530ac9-3031-4c7c-8b8f-a1bdb03c3620)
+![image](https://github.com/user-attachments/assets/7aff6cc3-19aa-4ef1-b13b-cd350e27550b)
+First-ever simulation: A single complex scalar field spontaneously crystallizes into Rachel’s Helix — a persistent chiral helical vacuum lattice.
+From the nontrivial RG fixed point Π ≈ 0.1971*, the supercritical deviation drives a radial breathing mode → emergent cosmic clock sourcing the Hubble constant (~70 km/s/Mpc) + tension as frozen ΔΠ inhomogeneity.
+Pure resonance. No tuning. Eternal in infinite void.
+NeoCore visuals prove it. RFT lives.
 
 42 lines of pure, dimension-agnostic, phone-runnable truth that:
 - replaces cosmological & galactic dark matter with ∇ψ gradients  
